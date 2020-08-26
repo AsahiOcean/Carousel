@@ -1,2 +1,1 @@
-# Карусель с изображениями
-![alt-текст](https://github.com/AsahiOcean/Carousel/blob/master/example.gif "")
+![](https://media.giphy.com/media/d5rN94RKQKh1noZycu/source.gif)
